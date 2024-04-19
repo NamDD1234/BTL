@@ -29,7 +29,7 @@ Xem thêm tại Instruction trong game.
 ### Một số kĩ thuật sử dụng trong game:
 - Interval tree.
 - OOP.
-- Ứng dụng Interpolation.
+- Ứng dụng Linear Interpolation.
 - Sound, Texture, Font của SDL2.
 ## Tự đánh giá.
 - Ngưỡng điểm em mong muốn: 9.
