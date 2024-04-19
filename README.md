@@ -20,6 +20,7 @@ Chào mừng đến với AimLab - nền tảng rèn luyện kỹ năng bắn s�
 - Còn lại về thao tác chuột và thoát ra tương tự như chơi với bóng.
 Xem thêm tại Instruction trong game.
 ### Chi tiết game:
+0. Game chơi góc nhìn thứ 1.
 1. Chơi với bóng:
 - Là chế độ đơn giản, nơi bạn tập trung tối đa vào việc tập phản xạ để bắn trúng nhiều bóng nhất trong một khoảng thời gian.
 2. Chơi với bot:
@@ -31,5 +32,6 @@ Xem thêm tại Instruction trong game.
 - OOP.
 - Ứng dụng Linear Interpolation.
 - Sound, Texture, Font của SDL2.
+- Đọc, xuất file.
 ## Tự đánh giá.
 - Ngưỡng điểm em mong muốn: 9.
