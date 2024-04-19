@@ -11,7 +11,7 @@ Chào mừng đến với AimLab - nền tảng rèn luyện kỹ năng bắn s�
 ### Control:
 1. Chơi với bóng:
 - Chủ yếu bằng chuột. Nhấn chuột trái để bắn.
-- Esc để hiển thị Pause_State.
+- Esc để hiển thị màn hình Pausegame.
 2. Chơi với bot:
 - A/D: Di chuyển sang trái/phải ( chỉ di chuyển được 1 đoạn ngắn ).
 - Shift: Đi bộ.
@@ -19,7 +19,7 @@ Chào mừng đến với AimLab - nền tảng rèn luyện kỹ năng bắn s�
 - B    : Kho đồ.
 - Tab  : Thay đổi thông số trạng thái game ( dễ, khó, .... ).
 - Còn lại về thao tác chuột và thoát ra tương tự như chơi với bóng.
-Xem thêm tại Instruction trong game.
+Xem thêm tại *Instruction* trong game.
 ### Chi tiết game:
 0. Game chơi góc nhìn thứ 1.
 1. Chơi với bóng:
@@ -41,12 +41,12 @@ Xem thêm tại Instruction trong game.
 - Sau dự án này, em đã học được rất nhiều điều, từ cải thiện khả năng code của bản thân đến học cách tiếp thu, lắng nghe những lời góp ý từ thầy phụ trách.
 - Dự án đã cho em góc nhìn ban đầu về một dự án phải chuẩn bị những gì, thực hiện như thế nào cho hiệu quả,...
 2. Điểm chưa tốt:
-- Còn một số lỗi liên quan đến Đồ hoạ em vẫn chưa tìm cách khắc phục được.
+- Còn một số lỗi liên quan đến Đồ Hoạ em vẫn chưa tìm cách khắc phục được.
 3. Hướng phát triển:
 - Bot có khả năng gây sát thương lên nhân vật.
 - Update thêm súng mới.
 - Thêm các chế độ mới đa dạng hơn.
 4. Cảm nghĩ:
 - Em xin chân thành cảm ơn sự hướng dẫn, chỉ bảo từ thầy Kiều Hải Đăng cũng như các anh/chị mentor vì đã giúp em có trải nghiệm được thử sức làm một chương trình mà em mong muốn, qua đó tiếp thêm động lực để em có được nhiều thành công hơn trong tương lai.
-## Tự đánh giá.
+## Tự đánh giá:
 - Với sản phẩm này cùng với đối chiếu với barem dự kiến như đã công bố từ trước, em tự tin với ngưỡng điểm 9, và hy vọng dự án của mình có thể nằm trong top 10% dự án trong lớp.
