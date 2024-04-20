@@ -11,6 +11,7 @@ Chào mừng đến với AimLab - nền tảng rèn luyện kỹ năng bắn s�
 ### Control:
 1. Chơi với bóng:
 - Chủ yếu bằng chuột. Nhấn chuột trái để bắn.
+- ![](anh1.png)
 - Esc để hiển thị màn hình Pausegame.
 2. Chơi với bot:
 - A/D: Di chuyển sang trái/phải ( chỉ di chuyển được 1 đoạn ngắn ).
