@@ -20,6 +20,8 @@ Chào mừng đến với AimLab - nền tảng rèn luyện kỹ năng bắn s�
 - B    : Kho đồ.
 - Tab  : Thay đổi thông số trạng thái game ( dễ, khó, .... ).
 - Còn lại về thao tác chuột và thoát ra tương tự như chơi với bóng.
+- ![](anh3.png)
+- ![](anh4.png)
 Xem thêm tại *Instruction* trong game.
 ### Chi tiết game:
 0. Game chơi góc nhìn thứ 1.
@@ -29,6 +31,7 @@ Xem thêm tại *Instruction* trong game.
 - Là một chế độ khó hơn so với chơi với bóng, phù hợp để tập luyện sau khi đã bắn với bóng, nơi tái hiện một cách chân thật nhất có thể những gì liên quan đến game ( các loại súng khác nhau với thông số súng khác nhau, dame gây lên những con bot khác nhau, bot biết di chuyển,... ).
 - Chia ra các trạng thái game ( nonreload / reload, dễ / khó ) tuỳ vào nhu cầu tập luyện của người chơi.
 3. Tất cả kết quả tốt nhất của bạn sẽ lưu trong History, hãy coi đó là mục tiêu để vượt qua mỗi ngày !!
+![](anh2.png)
 ### Một số kĩ thuật sử dụng trong game:
 - **Interval tree**: Được sử dụng trong việc sinh bot. Việc sinh bot ngẫu nhiên mà không có ràng buộc có thể dẫn đến tình trạng bot sinh đè lên nhau / di chuyển đè lên nhau, do đó cần bổ sung một ràng buộc nào đó để đảm bảo việc sinh bot. Và việc quản vị trí của các bot bằng Interval tree là hoàn toàn khả thi và hợp lí.
 - **OOP**.
