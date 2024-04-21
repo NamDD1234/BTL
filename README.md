@@ -35,7 +35,7 @@ Chào mừng đến với AimLab - nền tảng rèn luyện kỹ năng bắn s�
 ### Một số kĩ thuật sử dụng trong game:
 - **Interval tree**: Được sử dụng trong việc sinh bot. Việc sinh bot ngẫu nhiên mà không có ràng buộc có thể dẫn đến tình trạng bot sinh đè lên nhau / di chuyển đè lên nhau, do đó cần bổ sung một ràng buộc nào đó để đảm bảo việc sinh bot. Và việc quản vị trí của các bot bằng Interval tree là hoàn toàn khả thi và hợp lí.
 - **OOP**.
-- **Ứng dụng Linear Interpolation**: Là phương pháp ước lượng giá trị nằm giữa 2 giá trị đã biết trên một tỉ lệ nào đó, có ứng dụng rất lớn trong nhiều dòng game, giúp chuyển động nhân vật trở nên mượt mà, thanh thoát hơn. Ở trong game này đã ứng dụng trong việc di chuyển màn hình chơi giữa vị trí cũ đến vị trí mới theo hướng trỏ chuột.
+- **Ứng dụng Linear Interpolation**: Là phương pháp ước lượng giá trị nằm giữa 2 giá trị đã biết trên một tỉ lệ nào đó, giúp chuyển động nhân vật trở nên mượt mà, thanh thoát hơn. Ở trong game này đã ứng dụng trong việc di chuyển màn hình chơi giữa vị trí cũ đến vị trí mới theo hướng trỏ chuột.
 - **Sound, Texture, Font của SDL2**.
 - **Đọc, xuất file**: Để lưu lịch sử những lần chơi tốt nhất.
 ## Tổng kết lại và cảm nghĩ của bản thân.
