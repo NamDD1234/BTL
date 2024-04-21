@@ -41,10 +41,9 @@ Chào mừng đến với AimLab - nền tảng rèn luyện kỹ năng bắn s�
 ## Tổng kết lại và cảm nghĩ của bản thân.
 1. Điểm tích cực:
 - Toàn bộ quá trình từ lên ý tưởng, tìm kiếm thông tin có liên quan đến nội dung game, nghiên cứu SDL và tìm kiếm các thuật toán có liên quan đến dự án em đều tự làm.
-( Cảm ơn bạn Dương Minh Quân đã chia sẻ cho em cuốn sách nghiên cứu về SDL vô cùng bổ ích ).
 - Sau dự án này, em đã học được rất nhiều điều, từ cải thiện khả năng code của bản thân đến học cách tiếp thu, lắng nghe những lời góp ý từ thầy phụ trách.
 - Dự án đã cho em góc nhìn ban đầu về một dự án phải chuẩn bị những gì, thực hiện như thế nào cho hiệu quả,...
 2. Cảm nghĩ:
-- Em xin chân thành cảm ơn sự hướng dẫn, chỉ bảo từ thầy Kiều Hải Đăng cũng như các anh/chị mentor vì đã giúp em có trải nghiệm được thử sức làm một chương trình mà em mong muốn, qua đó tiếp thêm động lực để em có được nhiều thành công hơn trong tương lai.
+- Em xin chân thành cảm ơn sự hướng dẫn, chỉ bảo từ thầy Kiều Hải Đăng cũng như các anh/chị mentor cùng với bạn bè vì đã giúp em có trải nghiệm được thử sức làm một chương trình mà em mong muốn, qua đó tiếp thêm động lực để em có được nhiều thành công hơn trong tương lai.
 ## Tự đánh giá:
 - Với sản phẩm này cùng với đối chiếu với barem dự kiến như đã công bố từ trước, em tự tin với ngưỡng điểm 9, và hy vọng dự án của mình có thể nằm trong top 10% dự án trong lớp.
